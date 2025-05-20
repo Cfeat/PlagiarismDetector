@@ -1,0 +1,2 @@
+# PlagiarismDetector
+基于Levenshtein距离的文本抄袭检测工具
